@@ -16,10 +16,10 @@ Point of Sales with inventory management system
     ```
 3. Set Java and Maven to its environmental variable
     ```
-    //Check java version, make sure it is 1.8.*
+    # Check java version, make sure it is 1.8.*
     java -version
 
-    //Check maven version
+    # Check maven version
     mvn -version
     ```
 4. Run the following command on the root folder of the project
